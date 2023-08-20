@@ -16,7 +16,7 @@ const defaultUrl = "https://github.com/kyrstr1";
 let colorLight = "#fff",
     colorDark = "#000",
     text = defaultUrl,
-    size = 400;
+    size = 300; //secili olanın 100 düşüğü !sanırsam!
 
 function handleDarkColor(e) {
     colorDark = e.target.value;
